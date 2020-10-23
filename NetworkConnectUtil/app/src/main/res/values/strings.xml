@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkConnectUtil</string>
+    <string name="appresult_format">applestoreurl:%s, result:%s</string>
+</resources>
